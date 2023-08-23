@@ -445,6 +445,8 @@
 			}
 		});
 
+
+
 		$('.with-caption').magnificPopup({
 			type: 'image',
 			closeOnContentClick: true,
